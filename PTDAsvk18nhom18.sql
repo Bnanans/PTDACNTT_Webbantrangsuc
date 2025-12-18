@@ -231,7 +231,9 @@ CREATE TABLE `taikhoan` (
 --
 
 INSERT INTO `taikhoan` (`tendangnhap`, `matkhau`, `hoten`, `email`, `enable`) VALUES
-('bac11', '111', 'Vũ Thị Bắc', 'Vurio410@gmail.com', 1);
+('bac11', '111', 'Vũ Thị Bắc', 'Vurio410@gmail.com', 1),
+('Bnanans', '222', 'tung tung tung', 'sahur@gmail.com', 1);
+
 
 --
 -- Chỉ mục cho các bảng đã đổ

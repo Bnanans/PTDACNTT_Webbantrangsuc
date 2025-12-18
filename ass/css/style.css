@@ -2318,6 +2318,7 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
     float: left;
     padding: 35px 20px 35px 0px;
 }
+
 .footer-logo a img {
     transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;

@@ -125,7 +125,7 @@
             <div class="grid wide">
                 <div class="manager-form">
                     <a href="#!" class="manager-logo">
-                        <img src="upload/logo3.jpg" alt="ảnh" class="manager-logo__img">
+                        <img src="ass/images/bananalogo.png" alt="ảnh" class="manager-logo__img">
                     </a>
                     
                     <div class="manager-form__wrap">

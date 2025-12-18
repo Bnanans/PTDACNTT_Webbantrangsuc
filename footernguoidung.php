@@ -4,7 +4,7 @@
         <div class="row">
           <div class="footer-top pb_60 mb_30">
             <div class="col-xs-12 col-sm-6">
-              <div class="footer-logo"> <a href="index.php"> <img src="ass/images/ad1.jpg" alt="OYEENok"> </a> </div>
+              <div class="footer-logo"> <a href="index.php"> <img src="ass/images/bananalogo.png" alt="OYEENok"> </a> </div>
               <div class="footer-desc">Lorem ipsum doLorem ipsum dolor sit amet, consectetur adipisicagna.</div>
               <div class="footer-desc">Lorem ipsum doLorem ipsum dolor sit amet, consectetur adipisicagna.</div>
              

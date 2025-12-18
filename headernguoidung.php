@@ -79,7 +79,7 @@
           <div class="row">
             <div class="col-xs-12 col-sm-4">
               <div class="header-top-left">
-                <div class="contact"><a href="#">Call now !</a> <span class="hidden-xs hidden-sm hidden-md">+91 987-654-321</span></div>
+                <div class="contact"><a href="#">Call now !</a> <span class="hidden-xs hidden-sm hidden-md">+912345678</span></div>
               </div>
             </div>
             <div class="col-xs-12 col-sm-8">
@@ -123,7 +123,7 @@
               </span> </div>
                         </form>
             </div>
-            <div class="navbar-header col-xs-6 col-sm-4"> <a class="navbar-brand" href="index.php"> <img alt="OYEENok" src="ass/images/ad.jpg"> </a> </div>
+            <div class="navbar-header col-xs-6 col-sm-4"> <a class="navbar-brand" href="index.php"> <img alt="OYEENok" src="ass/images/bananalogo.png"> </a> </div>
            <div class="col-xs-6 col-sm-4 shopcart"></a>
               <div id="cart" class="btn-group btn-block mtb_40">
                 <button type="button" class="btn" data-target="#cart-dropdown" data-toggle="collapse" aria-expanded="true">
